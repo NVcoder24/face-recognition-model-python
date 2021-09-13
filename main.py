@@ -1,3 +1,10 @@
+"""
+This code should output if the faces in the pictures, 
+the path to which the user points to match.
+The code uses the computer vision library (opencv-python) 
+and a trained neural model from the face_recognition library.
+""""
+
 import cv2
 import face_recognition as fr
 
