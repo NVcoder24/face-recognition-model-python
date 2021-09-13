@@ -10,6 +10,8 @@ pip3 install face_recognition
 Tested on python 3.8.10 on ubuntu.
 
 
-Libraries versions:
-- opencv-python: 4.5.3
-- face_recognition: 1.2.3
+Libraries versions
+| library name     | tested version |
+| ---------------- | -------------- |
+| opencv-python    | 4.5.3          |
+| face_recognition | 1.2.3          |
